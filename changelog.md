@@ -30,4 +30,7 @@ Release Date: Jul 26, 2027
     -   slovenian (AB)
     -   swedish
 
-
+- converted static webpage to trivial codeigniter webpage
+	
+	- added welcome, gallery and about controllers # 21/09/2017
+	- added welcome, gallery and about views       # 21/09/2017

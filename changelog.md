@@ -34,3 +34,11 @@ Release Date: Jul 26, 2027
 	
 	- added welcome, gallery and about controllers # 21/09/2017
 	- added welcome, gallery and about views       # 21/09/2017
+
+- converted static webpage to basic codeigniter webpage
+	
+	- updated template.php file to contain all common elements in view php files # 21/09/2017
+	- removed common code elements in all views besides template.php             # 21/09/2017
+	- updated controllers to match views because common code has been removed    # 21/09/2017
+	- Core, MY_Controller.php updated for title                                  # 21/09/2017
+ 

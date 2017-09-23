@@ -1,3 +1,5 @@
+{thetable}
+<!--
 <table cols="3" class="gallery">
     <tr>
         <td class="oneimage">
@@ -10,6 +12,6 @@
             <a href="./data/Lands_End_Cape_Cornwall.jpg" data-lightbox="gallery" data-title="Land's End, Cape Cornwall and the Brisons ... Posted 2014.05.04 by mickey, in landscape"><img src="./data/thumb/Lands_End_Cape_Cornwall.jpg"/></a>
         </td>
     </tr>
-</table>
+</table> -->
 <h1>This is just a simple image gallery :)</h1>
 <p>The images above are the three most recently posted.</p>

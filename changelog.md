@@ -42,3 +42,8 @@ Release Date: Jul 26, 2027
 	- updated controllers to match views because common code has been removed    # 21/09/2017
 	- Core, MY_Controller.php updated for title                                  # 21/09/2017
  
+- converted basic webpage to good codeigniter webpage
+	
+	- setup database config
+	- changed gallery to populate from database
+	- changed Gallery controller to use database images

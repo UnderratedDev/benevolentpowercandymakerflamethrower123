@@ -44,6 +44,7 @@ Release Date: Jul 26, 2027
  
 - converted basic webpage to good codeigniter webpage
 	
-	- setup database config
-	- changed gallery to populate from database
-	- changed Gallery controller to use database images
+	- setup database config # 22/09/2017
+	- changed gallery to populate from database # 22/09/2017
+	- changed Gallery controller to use database images # 22/09/2017
+	- added additional comments # 22/09/2017
